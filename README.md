@@ -83,7 +83,7 @@ We're gonna go live on GitHub with your very own website!
 
 - Send your public address to the slack channel so that we can send you some test ether.
 
-- Then we will send you your individual ETH domain name.
+- Then we will send you your individual ETH domain name and real ether so that you can make future transactions.
 
 ### TODO 3 : Create a Fleek account
 
