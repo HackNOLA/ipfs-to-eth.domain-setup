@@ -22,7 +22,9 @@ We're gonna go live on GitHub with your very own website!
 
 ## Prerequisites
 
-* Students will require a website connected to their GitHub accountand will need to remember their GitHub username and password.
+* You will need a github repo with a desired website ready for deployment.
+
+* Students will require a website connected to their GitHub account and will need to remember their GitHub username and password.
 
     Students should complete their [first website](https://github.com/HackNOLA/First-Website/blob/main/README.md) project before
     beginning. 
@@ -100,7 +102,7 @@ We're gonna go live on GitHub with your very own website!
 
 3. Select your first website repository from the dropdown menu.
 
-4. For frameworks, select “Other” and then at the bottom of the page, click “Deploy Site”.
+4. For frameworks, select “Other” and then at the bottom of the page, click “Deploy Site”. If you are deploying a website built in a specific JavaScript framework, please refer to these [resources](https://docs.fleek.co/hosting/site-deployment/).
 
 5. After your website is done deploying, at the top, click "Verify on IPFS". And then open up the link provided for your in the build log.
 
