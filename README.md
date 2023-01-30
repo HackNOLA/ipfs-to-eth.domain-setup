@@ -80,6 +80,7 @@ We're gonna go live on GitHub with your very own website!
 9. To access your wallet, click the Metamask icon in the top right corner of your browser
 
 ### TODO 2 : Send Public Adress in Slack
+#### (Skip step if you're not a high school student and/or already have an [ETH domain](https://app.ens.domains) purchased)
 
 - Send your public address to the slack channel so that we can send you some test ether.
 
